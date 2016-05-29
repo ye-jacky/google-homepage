@@ -1,2 +1,2 @@
 # google-homepage
-Google's homepage without actual usability 
+Google's homepage from the front-end only.
