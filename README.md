@@ -1,2 +1,3 @@
 # google-homepage
-Google's homepage from the front-end only. Pretty, but not functioning.
+Build the Google homepage.
+http://www.theodinproject.com/web-development-101/html-css
